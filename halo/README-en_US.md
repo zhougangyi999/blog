@@ -21,7 +21,7 @@ Fast, concise, and powerful blogging system developed in Java.
 
 > QQ Group: 162747721，Telegram Group: [https://t.me/HaloBlog](https://t.me/HaloBlog) | Telegram Channel: [https://t.me/halo_dev](https://t.me/halo_dev) | [WeHalo 小程序](https://github.com/aquanlerou/WeHalo)。
 
-## Demo
+## Demoqqqq
 
 > Frontend: [https://demo.halo.run](https://demo.halo.run) 
 > Backend: [https://demo.halo.run/admin](https://demo.halo.run/admin)
