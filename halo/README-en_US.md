@@ -135,13 +135,3 @@ The birth of Halo is inseparable from the following projects：
 | <img src="https://i.loli.net/2018/12/23/5c1f68ce9b884.png" width="200"/>  |
 
 ## Interface display
-
-![](https://i.loli.net/2018/12/16/5c15b6edb9a49.png)
-![](https://i.loli.net/2018/12/16/5c15b6ee08333.png)
-![](https://i.loli.net/2018/12/16/5c15b6ec853af.png)
-![](https://i.loli.net/2018/12/16/5c15b6ec50238.png)
-![](https://i.loli.net/2018/12/16/5c15b6ed4057a.png)
-![](https://i.loli.net/2018/12/16/5c15b6eb01f2d.png)
-![](https://i.loli.net/2018/12/16/5c15b6eb98898.png)
-![](https://i.loli.net/2018/12/16/5c15b6eb3b506.png)
-![](https://i.loli.net/2018/12/16/5c15b6ebf29fd.png)
